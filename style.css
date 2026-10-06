@@ -1,0 +1,8 @@
+body {font-family: Arial;}
+table {border-collapse: collapse;}
+td {width: 10px;
+    height: 10px;
+    text-align: center;
+    font-size: 8px;}
+.special{background:green; color:white;}
+.nodec {background:lightgreen}
